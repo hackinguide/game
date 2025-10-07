@@ -1,6 +1,6 @@
 # game(逻辑)
 [![Build Status](https://travis-ci.org/gonet2/game.svg?branch=master)](https://travis-ci.org/gonet2/game)
-
+#this is gme
 ## 设计理念
 游戏服务器对agent只提供一个接口， 即:
 
